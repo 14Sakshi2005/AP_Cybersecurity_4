@@ -28,4 +28,18 @@ Recon → Scanning → Exploitation → Post-Exploitation → Reporting
 - Performed SSH brute-force attack using Hydra  
 - Cracked password hashes using John the Ripper  
 - Created phishing simulation page  
-- Applied system hardening techniques  
+- Applied system hardening techniques
+
+##  Screenshots
+
+[01_Samba_Exploit.png]
+
+[02_Root_Access.png]
+
+[03_Shadow_File.png]
+
+[04_Cracked_Passwords.png]
+
+[05_Phishing_Page.png]
+
+[06_Attacker_Terminal.png]
