@@ -32,14 +32,14 @@ Recon → Scanning → Exploitation → Post-Exploitation → Reporting
 
 ##  Screenshots
 
-[01_Samba_Exploit.png]
+01_Samba_Exploit.png
 
-[02_Root_Access.png]
+02_Root_Access.png
 
-[03_Shadow_File.png]
+03_Shadow_File.png
 
-[04_Cracked_Passwords.png]
+04_Cracked_Passwords.png
 
-[05_Phishing_Page.png]
+05_Phishing_Page.png
 
-[06_Attacker_Terminal.png]
+06_Attacker_Terminal.png
